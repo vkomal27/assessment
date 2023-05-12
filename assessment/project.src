@@ -1,0 +1,12 @@
+project/
+├── src/
+│   ├── Contracts/
+│   │   └── ManipulationStrategyInterface.php
+│   ├── Strategies/
+│   │   ├── ContainStrategy.php
+│   │   └── CoverStrategy.php
+│   └── ImageManipulator.php
+├── tests/
+│   └── ImageManipulatorTest.php
+├── composer.json
+└── composer.lock
